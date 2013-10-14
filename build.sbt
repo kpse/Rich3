@@ -1,4 +1,4 @@
-name := "scala project template"
+name := "Rich game"
 
 version := "1.0"
 
