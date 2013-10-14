@@ -1,4 +1,4 @@
-name := "hello"
+name := "scala project template"
 
 version := "1.0"
 
@@ -8,3 +8,5 @@ libraryDependencies ++= Seq(
    "junit" % "junit" % "4.11" % "test",
    "org.scalatest" %% "scalatest" % "2.0.RC2" % "test"
 )
+
+
