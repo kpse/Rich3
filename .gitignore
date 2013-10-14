@@ -1,5 +1,5 @@
 .idea/
 out/
-project/
+project/target
 target/
 .idea_modules/
